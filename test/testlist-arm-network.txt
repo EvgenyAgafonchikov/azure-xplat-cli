@@ -76,3 +76,6 @@ commands/arm/network.generated/arm.network.vnet-subnet-tests.json-output.js
 commands/arm/network.generated/arm.network.vnet-subnet-tests.text-output.js
 commands/arm/network.generated/arm.network.vnet-tests.json-output.js
 commands/arm/network.generated/arm.network.vnet-tests.text-output.js
+# Service Endpoints
+commands/arm/network.generated/arm.network.endpoint-service-tests.json-output.js
+commands/arm/network.generated/arm.network.endpoint-service-tests.text-output.js
